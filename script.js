@@ -1,6 +1,6 @@
 // ===== Configuración =====
 // Cambie este número por el WhatsApp real de la firma (código de país + número, sin + ni espacios)
-const WHATSAPP_NUMBER = "573000000000";
+const WHATSAPP_NUMBER = "573023472743";
 
 const translations = {
   es: {
